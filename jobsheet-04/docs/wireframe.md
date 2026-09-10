@@ -31,14 +31,34 @@ Halaman yang sudah ada (Beranda, Daftar/Tambah Buku, Daftar/Tambah Anggota — J
 |              SIMPUS-Mini             |
 |--------------------------------------|
 |                                      |
-|        [ Login Petugas ]            |
+|        [ Login Petugas ]             |
 |                                      |
-|   Username : [______________]       |
-|   Password : [______________]       |
+|   Username : [______________]        |
+|   Password : [______________]        |
 |                                      |
-|          [   Masuk   ]              |
+|          [   Masuk   ]               |
 |                                      |
-|   Belum punya akun? Daftar di sini  |
+|   Belum punya akun? Daftar di sini   |
++--------------------------------------+
+```
+## Wireframe: Halaman Registrasi Anggota Baru
+
+```
++--------------------------------------+
+|              SIMPUS-Mini             |
+|--------------------------------------|
+|                                      |
+|      Registrasi Anggota Baru         |
+|                                      |
+|   Nama Lengkap : [______________]    |
+|   Alamat       : [______________]    |
+|   No. HP       : [______________]    |
+|   Email        : [______________]    |
+|   Buat Password: [______________]    |
+|                                      |
+|            [   Daftar   ]            |
+|                                      |
+|   Sudah punya akun? Masuk di sini    |
 +--------------------------------------+
 ```
 
@@ -69,7 +89,7 @@ Halaman yang sudah ada (Beranda, Daftar/Tambah Buku, Daftar/Tambah Anggota — J
 |  Buku    : [ dropdown, hanya stok>0 ]|
 |  Tanggal Pinjam : [ auto: hari ini ] |
 |                                      |
-|          [  Simpan Peminjaman  ]    |
+|          [  Simpan Peminjaman  ]     |
 +--------------------------------------+
 ```
 
